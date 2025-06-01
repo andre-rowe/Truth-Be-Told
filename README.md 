@@ -1,0 +1,128 @@
+# ✨ Truth Be Told  (PROTOTYPE AT BOTTOM)
+### Reimagining the Volunteer Experience with Empathy and Clarity
+
+> A civic UX case study focused on improving the onboarding experience for volunteers supporting incarcerated women.
+
+---
+
+## 🔍 Overview
+
+**Truth Be Told** is a nonprofit dedicated to empowering incarcerated women through storytelling, connection, and community. Their volunteer program is a vital part of that mission — but the digital experience left volunteers feeling uncertain, disconnected, and unsupported.
+
+Our UX team reimagined the volunteer journey from the ground up: making it clearer, warmer, and more empowering for first-time and returning volunteers alike.
+
+---
+
+## 👤 My Role
+
+**UX Researcher / Civic Designer**
+
+- Conducted volunteer interviews and synthesized pain points
+- Created a detailed persona and journey map
+- Helped define design opportunities rooted in emotional clarity
+- Co-designed wireframes and prototypes using Figma
+- Facilitated testing sessions with new volunteer candidates
+
+---
+
+## 🧰 Tools Used
+
+- **Figma** – Wireframing & Prototyping  
+- **Miro** – Journey Mapping & Affinity Diagrams  
+- **Google Forms** – Surveys  
+- **Zoom** – Remote Interviews  
+- **UsabilityHub** – Concept Testing
+
+---
+
+## 🧠 Research Insights
+
+> “I filled out the form, but didn’t hear back… I wasn’t sure if I was even needed.”
+
+Through interviews and surveys, we discovered key friction points:
+- Lack of confirmation or next steps post-signup
+- No clear contact point or role expectations
+- Low social proof (no testimonials, unclear impact)
+- High emotional motivation, but low informational clarity
+
+---
+
+## 📌 Persona & Journey
+
+We created **Marcia**, a first-time volunteer persona, to represent our research findings.  
+Her journey included:
+- Feeling confused about what she was signing up for
+- A lack of direction during onboarding
+- Gaining confidence after seeing testimonials and step-by-step flow
+
+---
+
+## 💡 Design Goals
+
+- Help users feel **confident and informed** about joining
+- Build **trust** through transparency and visuals
+- Create an experience that feels **warm, structured, and human**
+
+---
+
+## 🧪 Prototyping & Testing
+
+**Key Features:**
+- Step-by-step onboarding with CTAs
+- Volunteer testimonials and role previews
+- Confirmation screens and visible progress indicators
+- Friendly tone and welcoming imagery
+
+We tested our high-fidelity prototype with 5 volunteers.
+
+| Task                             | Old Site | Prototype |
+|----------------------------------|----------|-----------|
+| Register for a volunteer account | 70%      | 100%      |
+| Understand available roles       | 40%      | 90%       |
+| Complete onboarding steps        | 50%      | 90%       |
+| Feel connected to other volunteers | 30%    | 80%       |
+
+---
+
+## ✅ Outcomes
+
+- **Increased Confidence**: 4/5 testers said they’d sign up after using the prototype
+- **Reduced Friction**: All users completed flows without support
+- **Improved Clarity**: Visual language matched the nonprofit’s warmth and mission
+
+---
+
+## 🧑🏽‍🤝‍🧑🏻 Team
+
+**Andre Rowe**, Diana Dong, Tina Lee, Paul Lyren, Shradha Maheshwa
+
+---
+
+## 🎨 Deliverables
+
+📂 `docs/`
+- `Truth-Be-Told_Research-Summary.pdf`
+- `Persona_JourneyMap_Marcia.pdf`
+- `Slide_Deck.pdf`
+
+📂 `assets/`
+- Screenshots (low/mid/high fidelity)
+- Visual style tile
+- Branding images
+
+📂 `prototype/`
+- `README.md` with embedded Figma preview or link
+
+🔗 **Live Prototype**: [View on Figma →](https://www.figma.com/proto/4EqgFgUvbZ5q3UZ0H2V13H/Truth-be-Told-AR?page-id=7%3A4&node-id=333-2395&p=f&viewport=303%2C332%2C0.03&t=FUTy2jpCQnAEeTT2-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=333%3A2395)
+
+---
+
+## 📬 Let’s Connect
+
+- [LinkedIn](https://www.linkedin.com/in/andreroweops/)
+- [Email](mailto:rowea190@gmail.com)
+- [Portfolio](https://rowecreates.io) _(launching soon)_
+
+---
+
+© 2025 Andre Rowe
